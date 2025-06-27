@@ -1,5 +1,7 @@
 # Social-Network
-Social Network for Advanced Programming Course / *QT Studio Application*
+Social Network for Advanced Programming Course 
+
+    *QT Studio Application*
 
 Simple Social Network 
 
