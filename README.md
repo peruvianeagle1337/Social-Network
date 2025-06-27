@@ -1,5 +1,5 @@
-# Social-Network
-Social Network for Advanced Programming Course 
+# Moodboards-Social-Network
+ Social Network for Advanced Programming Course 
 
     *QT Studio Application*
 
@@ -15,7 +15,7 @@ Uses Vectors to Store Each User's Friends
 
 Finds a list of Most Relevant Friend Suggestions (click to add)
 
-User can write posts on own profile and on other's profiles
+Text Posts: Users can write posts on their own and on each other's profiles!
 
 
 Additional Features: 
