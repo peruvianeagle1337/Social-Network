@@ -1,4 +1,4 @@
-# Moodboards-Social-Network
+# Social-Network (Moodboard Edition)
  Social Network for Advanced Programming Course 
 
     *QT Studio Application*
