@@ -4,21 +4,20 @@
     *QT Studio Application*
 
  
-Features: 
 
 Run Mainwindow.cpp to Launch the Log-In Screen 
  
   Requires a valid Username (drawn from users.txt)
 
 
-Uses Vectors to Store Each User's Friends
-
-Finds a list of Most Relevant Friend Suggestions (click to add)
-
-Text Posts: Users can write posts on their own and on each other's profiles!
 
 
-Additional Features: 
+Features: 
+
+• Text Posts: Users can write posts on their own and on each other's profiles
+
+• Friend Suggestions (Finds the most relevant connections)
+
 • Profile Pictures for each user
 
 • Biographies for each user
