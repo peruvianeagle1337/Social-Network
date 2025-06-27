@@ -20,9 +20,13 @@ Text Posts: Users can write posts on their own and on each other's profiles!
 
 Additional Features: 
 • Profile Pictures for each user
+
 • Biographies for each user
+
 • Like feature for Posts
+
 • A Moodboard where users can pin stickers (visible to friends)
+
 
 1. Profile Picture Feature
 
@@ -78,7 +82,7 @@ Slots & Signals
 Slot: onLikePost() – Connected to the “Like” icon’s click event; it calls addLike or removeLike accordingly.
 Signal: likeUpdated – Emitted after a like/unlike operation, prompting the UI to refresh the like count.
 
-4. Experimental Feature: Moodboard
+4. Moodboard
 Class Design
 Moodboard Class:
  • Field: stickers: List<Sticker>
