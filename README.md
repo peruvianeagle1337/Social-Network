@@ -3,8 +3,7 @@ Social Network for Advanced Programming Course
 
     *QT Studio Application*
 
-Simple Social Network 
-
+ 
 Features: 
 
 Run Mainwindow.cpp to Launch the Log-In Screen 
